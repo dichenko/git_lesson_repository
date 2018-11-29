@@ -4,4 +4,7 @@ def foo():
 
 def bar():
     print('bar 2')
-    
+
+
+def blink():
+    print('blink-blink')
